@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ROrganizer</string>
+
+
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_item_pause_on_scroll">Pause on scroll</string>
+    <string name="menu_item_pause_on_fling">Pause on fling</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_email">Email</string>
+
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+    <string name="descr_check">CheckBox</string>
+</resources>
